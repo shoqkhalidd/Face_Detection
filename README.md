@@ -6,7 +6,7 @@ this project was face detection app using a pic and a real-time detection using 
 ## Index
 - [Before detection](test.jpg)
 - [After detection](img.jpg)
-- [The app](face_detection.py)
+- [The app](face_detec.py)
 - [Cascade Classifier](haarcascade_frontalface_default.xml)
 
 
